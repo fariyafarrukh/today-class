@@ -1,6 +1,4 @@
 
-
-import Navbar from'./component/Navbar';
 function Karachi()
 { 
  return (
