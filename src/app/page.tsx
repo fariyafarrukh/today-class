@@ -1,34 +1,14 @@
-// import Link from "next/link";
 
+function Karachi()
+{ 
+ return (
+   <div style={{ fontWeight:'bold',color:'brown',fontSize: '4rem'}}>
+    <h1>hello Karachi
 
-
-// function page()
-// { 
-//   return (
- 
-    
-//     <div>
-   
-//     <Link href={"/"}>karachi</Link> &nbsp;
-//     <Link href={"/multan"}>multan</Link> &nbsp;
-//     <Link href={"/sakkar"}>sakkar</Link> &nbsp;
-//     <Link href={"/larkana"}>larkana</Link> &nbsp;
-//     <h1> wellcome to arachi</h1>
-
-//     </div>
-   
-    
-    
-//   );
-
-// }
+    </h1>
   
-// export default page
+   </div>
+  );
+}
 
-
-import Link from "next/link";
-function Student()
- { 
-   return (
- 
-
+export default  Karachi;
